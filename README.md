@@ -7,7 +7,7 @@
 
 - 🌴 Proficient in building single-page apps.
 
-- 🏆 I recently built a clone of Monday.com, check it out, it has everything! **[oneday](https://oneday-8mdx.onrender.com/)**
+- 🏆 I recently built a clone of Monday.com, check it out, it has everything! **[oneday.com](https://oneday-8mdx.onrender.com/)**
 
 - 👨‍💻 My personal website : **Stay tuned - Comming Soon 😎**
 
