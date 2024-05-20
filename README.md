@@ -15,7 +15,7 @@
 
 - 💙 Fun fact: I love training, baking, and riddles.
 
-- 🆕 <ins>**Current project:**</ins> Learning React Native and building a mobile app with NativeWind for styling and Apwrite for backend
+- 🆕 ***Current project:*** Learning React Native and building a mobile app with NativeWind for styling and Apwrite for backend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
