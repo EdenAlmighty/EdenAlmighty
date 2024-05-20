@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
 <h3 align="center">A passionate Full-Stack Developer and UI/UX Designer</h3>
 
+<h3 align="center">In addition, I'm learning new technologies all the time and implementing them in my projects.</h3>
+
+- 🎯 A people's person and a tech lover. Self-starter, ambitious, and a team player!
+
+- 🌴 Proficient in building single-page apps.
+
+- 🏆 I recently built a clone of Monday.com, check it out, it has everything! **[oneday](https://oneday-8mdx.onrender.com/)**
+
+- 👨‍💻 My personal website : **Stay tuned - Comming Soon 😎**
+
+- 📫 How to reach me : **edengilady1@gmail.com**
+
+- 💙 Fun fact: I love training, baking, and riddles.
+
+- 🆕 Current project: Learning React Native and building a mobile app with NativeWind for styling and aApwrite for backend
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/eden-gilady" target="_blank">
