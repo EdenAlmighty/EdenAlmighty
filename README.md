@@ -3,7 +3,7 @@
 
 <h3 align="center">In addition, I'm learning new technologies all the time and implementing them in my projects.</h3>
 
-- 🎯 A people's person and a tech lover. Self-starter, ambitious, and a team player!
+- 🎯 A people person and a tech lover. Self-starter, ambitious, and a team player!
 
 - 🌴 Proficient in building single-page apps.
 
@@ -15,7 +15,7 @@
 
 - 💙 Fun fact: I love training, baking, and riddles.
 
-- 🆕 Current project: Learning React Native and building a mobile app with NativeWind for styling and aApwrite for backend
+- 🆕 Current project: Learning React Native and building a mobile app with NativeWind for styling and Apwrite for backend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
