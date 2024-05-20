@@ -9,7 +9,7 @@
 
 - 🏆 I recently built a clone of Monday.com, check it out, it has everything! **[oneday.com](https://oneday-8mdx.onrender.com/)**
 
-- 👨‍💻 My personal website : **Stay tuned - Comming Soon 😎**
+- 👨‍💻 My personal website : **Stay tuned - Coming Soon 😎**
 
 - 📫 How to reach me : **edengilady1@gmail.com**
 
