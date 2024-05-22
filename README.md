@@ -15,7 +15,7 @@
 
 - 📫 How to reach me : **edengilady1@gmail.com**
 
-- 💙 Fun fact: I love training, baking, and riddles.
+- 💙 Fun facts: I love training, baking, and games.
 
 - ✨ **Current project:** Learning React Native and building a mobile app with NativeWind for styling and Appwrite for backend
 
